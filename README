@@ -1,0 +1,9 @@
+Project:      BlackjackSimulator
+Author:       Conner Hurst
+
+Purpose:      This application simulates a number of heads-up blackjack hands. Its purpose is to allow the user to test different playing
+              strategies. By default, the computer will play according to the standard recommended table (shown here: 
+              https://www.bestonlinecasino.com/strategies/blackjack/hit-or-stand-chart/). The user can change these settings, let the
+              computer play differently, and track the results.
+         
+Limitations:  Currently, the computer will never split its hand or double down.
